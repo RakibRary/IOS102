@@ -3,7 +3,6 @@ App Description
 TODO:// Create an ios app that will allow user to input their name, school, year, and pets information
 App Walk-though
 <p align="center"> <img src="IOSAPP_GIF.gif" alt=""> </p>
-TODO:// In the Features section below, add an x between the -[ ] like this - [x] for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 Required Features
 1. App displays an image of a school's logo - [x]
