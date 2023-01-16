@@ -1,20 +1,18 @@
-<h1>Introduction App</h1>
-    <p>App Description:</p>
-    <p>This ios app will allow the user to input their name, school, year, and pets information. The user will also be able to customize the app by changing the background color, adding more information about themselves, and making stylistic changes.</p>
-    <h2>App Walk-though</h2>
-    <img src="URL" alt="Animated App Walk-though" />
-    <h2>Required Features</h2>
-    <ul>
-      <li>App displays an image of a school's logo</li>
-      <li>App has three textfields for first, last, and school names</li>
-      <li>App has a segmented control that changes student year</li>
-      <li>Number of pet matches label is increased/decreased by stepper</li>
-      <li>Switch makes a statement about wanting more pets or not(true/false)</li>
-      <li>Introduce yourself button shows alert box with an introduction and dismiss button</li>
-    </ul>
-    <h2>Optional Features</h2>
-    <ul>
-      <li>User can tap a button to change the color of the background view</li>
-      <li>User can select additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.</li>
-      <li>Any stylistic changes that are not default options (Comment this here)</li>
-    </ul>
+Introduction App
+App Description
+TODO:// Create an ios app that will allow user to input their name, school, year, and pets information
+App Walk-though
+<p align="center"> <img src="IOSAPP_GIF.gif" alt=""> </p>
+TODO:// In the Features section below, add an x between the -[ ] like this - [x] for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
+
+Required Features
+1. App displays an image of a school's logo - [x]
+2. App has three textfields for first, last, and school names - [x]
+3. App has a segmented control that changes student year - [x]
+4. Number of pet matches label is increased/decreased by stepper - [x]
+5. Switch makes a statement about wanting more pets or not(true/false) - [x]
+6. Introduce yourself button shows alert box with an introduciton and dismiss button 
+Optional Features - [x]
+1. User can tap a button to change the color of the background view
+3. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
+4. Any stylistic changes that are not default options (Comment this here)
